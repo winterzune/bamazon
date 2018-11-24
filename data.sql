@@ -40,3 +40,5 @@ VALUES ("guac", food, 2.25, 8);
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Nokia", phones, 1.25, 75);
 
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("jeans", clothing, 50.25, 45);
